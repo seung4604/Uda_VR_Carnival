@@ -17,3 +17,5 @@ My first repository on GitHub. This repository contains my first project in VR D
 A **Particle System** that visually looking like a firework.
 # Google VR SDK version used in this project
 Google VR SDK for Unity v1.50
+# Unity version used in this project
+Unity 5.6.1f1 (64-bit)
