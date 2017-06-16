@@ -13,8 +13,11 @@ My first repository on GitHub. This repository contains my first project in VR D
 - CoinToss
 1. Min Toss Power Value
 2. Max Toss Power Value
+- Position of the Teddy Bear
 # Added
-A **Particle System** that visually looking like a firework.
+- A **Particle System** that visually looking like a firework.
+- Screenshot of Unity app running on phone
+- Successful build of the app (apk file)
 # Google VR SDK version used in this project
 Google VR SDK for Unity v1.50
 # Unity version used in this project
